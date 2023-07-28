@@ -1,0 +1,19 @@
+.container{
+  text-align: center;
+}
+.title{
+  font-family: 'Lugrasimo', cursive;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.btn{
+  margin: 10px;
+  border: 1px solid rgb(4, 0, 255);
+  border-radius: 5px;
+  background: rgb(95, 92, 255);
+  padding: 5px;
+  font-size: 20px;
+}
+p{
+  font-size: 20px;
+}
