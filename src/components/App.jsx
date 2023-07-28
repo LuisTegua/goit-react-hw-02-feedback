@@ -25,7 +25,6 @@ class Counter extends React.Component {
   }
   render() {
     const { good, neutral, bad } = this.state;
-    const a = this.total;
     return (
       <div className={css.container}>
         <h2 className={css.title}>Please leave feedback</h2>
